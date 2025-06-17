@@ -4,7 +4,7 @@ import "dotenv/config";
 const resend = new Resend(process.env.RESEND_API_KEY);
 
 export const sendVerificationEmail = async (email, token) => {
-  const verificationUrl = `${process.env.VERIFICATION_BASE_URL}?token=${token}`; // use frontend url here
+  const verificationUrl = `${process.env.FRONTEND_URL}/verify?token=${token}`; // use frontend url here
 
   try {
     await resend.emails.send({
