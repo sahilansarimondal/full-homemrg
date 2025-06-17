@@ -1,0 +1,80 @@
+[
+  {
+    "id": "home-support-specialist",
+    "title": "Home Support Specialist",
+    "location": "dsdsds Columbus, OH",
+    "shortDescription": "Assist clients with organizing, scheduling, and home routines.",
+    "longDescription": "As a Home Support Specialist, you'll bring structure and clarity to clients' day-to-day lives...",
+    "image": "/images/jobs/home-support.jpg",
+    "skills": [
+      "Time management",
+      "Organization skills",
+      "Empathy and communication"
+    ]
+  },
+  {
+    "id": "household-systems-coordinator",
+    "title": "Household Systems Coordinator",
+    "location": "Denver, CO",
+    "shortDescription": "Help clients build reliable daily systems for home and family.",
+    "longDescription": "You\u2019ll work with families to develop and maintain efficient systems that streamline their home life...",
+    "image": "/images/jobs/systems.jpg",
+    "skills": [
+      "Process design",
+      "Scheduling expertise",
+      "Problem-solving"
+    ]
+  },
+  {
+    "id": "routine-design-coach",
+    "title": "Routine Design Coach",
+    "location": "Remote",
+    "shortDescription": "Design personalized routines that align with client goals and lifestyle.",
+    "longDescription": "Support clients by crafting daily, weekly, and seasonal routines to promote calm, productivity, and family balance...",
+    "image": "/images/jobs/routine.jpg",
+    "skills": [
+      "Routine building",
+      "Client coaching",
+      "Behavioral insights"
+    ]
+  },
+  {
+    "id": "daily-operations-partner",
+    "title": "Daily Operations Partner",
+    "location": "Seattle, WA",
+    "shortDescription": "Work hands-on with households to manage daily tasks, errands, and schedules.",
+    "longDescription": "Become an extension of the family, helping households stay on track with everyday responsibilities and needs...",
+    "image": "/images/jobs/operations.jpg",
+    "skills": [
+      "Task management",
+      "Multi-family coordination",
+      "Adaptability"
+    ]
+  },
+  {
+    "id": "lifestyle-consultant",
+    "title": "Lifestyle Consultant",
+    "location": "Los Angeles, CA",
+    "shortDescription": "Help clients design a lifestyle aligned with their personal and family values.",
+    "longDescription": "Use holistic approaches to align clients' daily rhythms with their long-term values and lifestyle goals...",
+    "image": "/images/jobs/lifestyle.jpg",
+    "skills": [
+      "Lifestyle planning",
+      "Vision coaching",
+      "Time-blocking"
+    ]
+  },
+  {
+    "id": "family-schedule-specialist",
+    "title": "Family Schedule Specialist",
+    "location": "New York, NY",
+    "shortDescription": "Balance competing demands across all members of the household with ease.",
+    "longDescription": "Build and maintain dynamic, realistic family schedules across all domains: school, meals, errands, downtime...",
+    "image": "/images/jobs/schedule.jpg",
+    "skills": [
+      "Calendar creation",
+      "Flexibility",
+      "Family-centered thinking"
+    ]
+  }
+]

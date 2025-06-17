@@ -1,0 +1,164 @@
+body {
+  font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+  background: #f6f8fa;
+}
+
+.dashboard-tiles.vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2.5rem 0 3rem 0;
+}
+
+.tile {
+  background: #fff;
+  padding: 2rem 2.2rem;
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.07);
+  margin-bottom: 0.5rem;
+}
+
+.welcome-tile {
+  background: linear-gradient(90deg, #e0e7ff 0%, #f0fdfa 100%);
+  box-shadow: 0 2px 8px #a5b4fc22;
+  text-align: left;
+}
+
+.stats-tile {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  background: #f8fafc;
+  box-shadow: none;
+  padding: 1.2rem 1.5rem;
+}
+
+.stat-card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px #a5b4fc22;
+  padding: 1.1rem 1.7rem;
+  min-width: 110px;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+.stat-num {
+  font-size: 2.1rem;
+  font-weight: 700;
+  color: #1746a0;
+  margin-bottom: 0.2rem;
+}
+
+.actions-tile {
+  background: #f8fafc;
+  box-shadow: none;
+  padding: 1.1rem 1.5rem;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.actions-tile button {
+  background: #1746a0;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 0.7rem 1.5rem;
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.18s;
+}
+.actions-tile button:hover {
+  background: #1e293b;
+}
+
+.recent-tile {
+  background: #f8fafc;
+  box-shadow: none;
+  padding: 1.1rem 1.5rem;
+}
+
+.jobs-tile, .services-tile, .issues-tile, .account-tile, .performance-tile, .notifications-tile {
+  margin-bottom: 0.5rem;
+}
+
+.jobs-tile ul, .services-tile ul, .issues-tile ul, .notifications-tile ul {
+  margin: 0.5rem 0 0 0;
+  padding-left: 1.2rem;
+}
+
+.jobs-tile li, .services-tile li, .issues-tile li, .notifications-tile li {
+  margin-bottom: 0.4rem;
+  font-size: 1.05rem;
+}
+
+.account-tile {
+  background: #f8fafc;
+  box-shadow: none;
+  padding: 1.1rem 1.5rem;
+}
+
+@media (max-width: 700px) {
+  .dashboard-tiles.vertical {
+    padding: 1.2rem 0 2rem 0;
+    max-width: 98vw;
+  }
+  .tile {
+    padding: 1.1rem 0.7rem;
+  }
+  .stat-card {
+    padding: 0.7rem 1rem;
+    min-width: 80px;
+  }
+}
+
+/* Contractor Dashboard Grid Layout */
+.contractor-dashboard-grid {
+  display: grid;
+  grid-template-areas:
+    'welcome welcome welcome'
+    'main main clock';
+  grid-template-columns: 2fr 2fr 1fr;
+  grid-template-rows: auto 1fr;
+  gap: 1.1rem;
+  max-width: 1100px;
+  min-height: 90vh;
+}
+.dashboard-main-grid {
+  grid-area: main;
+  display: flex;
+  flex-direction: row;
+  gap: 1.1rem;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+@media (max-width: 900px) {
+  .contractor-dashboard-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1.1rem;
+    max-width: 98vw;
+  }
+  .dashboard-main-grid {
+    flex-direction: column;
+    gap: 1.1rem;
+  }
+}
+
+.dashboard-tiles.vertical {
+  gap: 1.1rem;
+  padding: 1.2rem 0 1.2rem 0;
+  max-width: 1100px;
+}
+.tile {
+  padding: 0.7rem 1rem;
+  border-radius: 12px;
+  margin-bottom: 0.2rem;
+}
+.stat-card {
+  padding: 0.5rem 0.5rem;
+  min-width: 70px;
+}

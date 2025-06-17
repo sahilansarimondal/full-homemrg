@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "5 Ways to Simplify Your Morning Routine",
+    "image": "https://source.unsplash.com/600x400/?morning,routine,home",
+    "excerpt": "Start your day with less stress and more energy using these simple tips.",
+    "content": "Mornings set the tone for your entire day. Here are five actionable ways to streamline your routine: 1) Prep the night before, 2) Keep essentials by the door, 3) Use a family calendar, 4) Set a breakfast station, 5) Give yourself a buffer. Try these and see the difference!",
+    "author": "Jane Smith",
+    "date": "2024-05-01",
+    "url": "https://yourdomain.com/blog/simplify-morning-routine"
+  },
+  {
+    "id": 2,
+    "title": "Declutter Fast: The 10-Minute Tidy-Up",
+    "image": "https://source.unsplash.com/600x400/?declutter,organization,home",
+    "excerpt": "A quick guide to keeping your home organized, even on busy days.",
+    "content": "You don't need hours to make a difference. Set a timer for 10 minutes and focus on one area: the entryway, kitchen counter, or living room. Small, consistent efforts add up to a clutter-free home.",
+    "author": "Alex Johnson",
+    "date": "2024-04-18",
+    "url": "https://yourdomain.com/blog/10-minute-tidy-up"
+  },
+  {
+    "id": 3,
+    "title": "Meal Planning Made Easy",
+    "image": "https://source.unsplash.com/600x400/?meal,planning,kitchen",
+    "excerpt": "Save time and money with these meal planning strategies.",
+    "content": "Meal planning doesn't have to be complicated. Start by picking 2-3 go-to recipes each week, make a shopping list, and prep ingredients in advance. Bonus: involve the family for more fun and less stress!",
+    "author": "Maria Lopez",
+    "date": "2024-03-29",
+    "url": "https://yourdomain.com/blog/meal-planning-made-easy"
+  },
+  {
+    "id": 4,
+    "title": "How to Create a Family Command Center",
+    "image": "https://source.unsplash.com/600x400/?family,command,center,home",
+    "excerpt": "Keep everyone on track with a central hub for schedules and reminders.",
+    "content": "A family command center can be as simple as a whiteboard and a few baskets. Place it near your main entryway and use it for calendars, keys, mail, and important notes. It's a game-changer for busy households!",
+    "author": "Priya Patel",
+    "date": "2024-03-10",
+    "url": "https://yourdomain.com/blog/family-command-center"
+  },
+  {
+    "id": 5,
+    "title": "Stress-Free Laundry Hacks",
+    "image": "https://source.unsplash.com/600x400/?laundry,home,hacks",
+    "excerpt": "Make laundry day easier with these clever tricks.",
+    "content": "Sort as you go, use mesh bags for socks, and set a timer for folding. Try a laundry schedule (e.g., towels on Tuesdays) to keep things manageable. Little changes can make a big difference!",
+    "author": "Chris Evans",
+    "date": "2024-02-22",
+    "url": "https://yourdomain.com/blog/laundry-hacks"
+  },
+  {
+    "id": 6,
+    "title": "The Ultimate Guide to Home Maintenance",
+    "image": "https://source.unsplash.com/600x400/?home,maintenance,tools",
+    "excerpt": "Stay ahead of repairs and keep your home running smoothly.",
+    "content": "Regular home maintenance prevents costly repairs. Make a seasonal checklist: check smoke detectors, clean gutters, inspect HVAC, and test alarms. A little effort now saves a lot later!",
+    "author": "Dana Lee",
+    "date": "2024-01-30",
+    "url": "https://yourdomain.com/blog/home-maintenance-guide"
+  },
+  {
+    "id": 7,
+    "title": "Family Meal Prep for Busy Weeknights",
+    "image": "https://source.unsplash.com/600x400/?family,meal,prep",
+    "excerpt": "Quick and healthy meal prep ideas for your family.",
+    "content": "Batch cook proteins, chop veggies in advance, and use slow cookers for easy weeknight dinners. Involve kids for fun and learning!",
+    "author": "Samantha Green",
+    "date": "2024-01-15",
+    "url": "https://yourdomain.com/blog/family-meal-prep"
+  },
+  {
+    "id": 8,
+    "title": "Organize Your Entryway Like a Pro",
+    "image": "https://source.unsplash.com/600x400/?entryway,organization,home",
+    "excerpt": "Transform your entryway into a clutter-free, welcoming space.",
+    "content": "Use hooks, baskets, and a shoe rack to keep everything in its place. A tidy entry sets the tone for your home!",
+    "author": "Jordan Lee",
+    "date": "2023-12-20",
+    "url": "https://yourdomain.com/blog/organize-entryway"
+  },
+  {
+    "id": 9,
+    "title": "How to Create a Calming Bedtime Routine",
+    "image": "https://source.unsplash.com/600x400/?bedtime,routine,calm,home",
+    "excerpt": "Wind down and sleep better with these bedtime tips.",
+    "content": "Dim the lights, turn off screens, and read together as a family. Consistent routines help everyone rest well.",
+    "author": "Emily Chen",
+    "date": "2023-12-05",
+    "url": "https://yourdomain.com/blog/bedtime-routine"
+  },
+  {
+    "id": 10,
+    "title": "Kid-Friendly Cleaning Tips",
+    "image": "https://source.unsplash.com/600x400/?kids,cleaning,home",
+    "excerpt": "Make cleaning fun and easy for your kids.",
+    "content": "Turn chores into games, use colorful supplies, and reward effort. Kids learn responsibility and teamwork!",
+    "author": "Olivia Brown",
+    "date": "2023-11-18",
+    "url": "https://yourdomain.com/blog/kid-friendly-cleaning"
+  },
+  {
+    "id": 11,
+    "title": "Seasonal Declutter: Spring Cleaning Essentials",
+    "image": "https://source.unsplash.com/600x400/?spring,cleaning,declutter",
+    "excerpt": "Refresh your home with these spring cleaning must-dos.",
+    "content": "Focus on one room at a time, donate unused items, and use natural cleaners for a fresh start.",
+    "author": "Maya Singh",
+    "date": "2023-11-01",
+    "url": "https://yourdomain.com/blog/spring-cleaning"
+  },
+  {
+    "id": 12,
+    "title": "Home Office Organization for Productivity",
+    "image": "https://source.unsplash.com/600x400/?home,office,organization",
+    "excerpt": "Boost your productivity with a tidy, inspiring workspace.",
+    "content": "Declutter your desk, use organizers, and add a plant for a touch of calm. A clean space helps you focus!",
+    "author": "Rachel Kim",
+    "date": "2023-10-15",
+    "url": "https://yourdomain.com/blog/home-office-organization"
+  }
+] 

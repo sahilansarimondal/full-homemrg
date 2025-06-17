@@ -1,0 +1,134 @@
+/* Basic Reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Root Elements */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  background: #1e3a8a;
+  overflow-x: hidden;
+  font-family: 'Segoe UI', sans-serif;
+  color: #334155;
+}
+
+/* App Structure */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background: #1e3a8a;
+}
+
+/* Main Content */
+main {
+  flex: 1;
+  width: 100%;
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  position: relative;
+  z-index: 3;
+}
+
+/* Page Wrapper */
+.page-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: #1e3a8a;
+  border-radius: 2.2rem;
+  box-shadow: 0 8px 32px rgba(30, 58, 138, 0.10);
+}
+
+/* Section Cards */
+.section-card {
+  background: #fff;
+  color: #1e293b;
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 24px rgba(30, 58, 138, 0.08);
+  padding: 2.5rem;
+  max-width: 900px;
+  margin: 2rem auto;
+}
+
+/* Typography */
+.section-card h1,
+.section-card h2,
+.section-card h3 {
+  color: #1e3a8a;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.section-card p,
+.section-card ul {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+/* CTA Box */
+.cta-box {
+  background: #e0e7ff;
+  padding: 2.5rem 2rem;
+  border-radius: 1.2rem;
+  text-align: center;
+  box-shadow: 0 2px 12px rgba(30, 58, 138, 0.07);
+}
+
+/* CTA Button */
+.cta-button {
+  display: inline-block;
+  margin-top: 1.2rem;
+  padding: 0.85rem 2.2rem;
+  background: #1e3a8a;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-decoration: none;
+  border-radius: 2rem;
+  box-shadow: 0 2px 8px rgba(30, 58, 138, 0.10);
+  border: none;
+  cursor: pointer;
+}
+
+.cta-button:hover {
+  background: #143087;
+  box-shadow: 0 4px 16px rgba(30, 58, 138, 0.13);
+}
+
+/* Footer */
+footer, .footer {
+  flex-shrink: 0;
+  width: 100%;
+  min-height: 80px;
+  background: #1F2937;
+  color: #F3F4F6;
+  border-top: 4px solid red;
+  padding: 2rem 1rem 1rem;
+  text-align: center;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .page-wrapper {
+    padding: 1rem;
+  }
+  .section-card {
+    padding: 1.2rem 0.7rem;
+  }
+  .cta-box {
+    padding: 1.2rem 0.7rem;
+  }
+}

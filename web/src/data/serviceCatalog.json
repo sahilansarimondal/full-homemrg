@@ -1,0 +1,1046 @@
+[
+  {
+    "category":"Admin & Paperwork",
+    "service":"Maintain a listing of Bill & Subscriptions",
+    "frequency":"monthly",
+    "status":"inactive",
+    "featured":false,
+    "description":"Keep an up-to-date record of all household bills and subscriptions."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Document Organization & Filing",
+    "frequency":"weekly",
+    "status":"inactive",
+    "featured":false,
+    "description":"Organize and file important household documents for easy access."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Maintain logs (maintenance, receipts, warranties)",
+    "frequency":"seasonally",
+    "status":"inactive",
+    "featured":false,
+    "description":"Track and store maintenance records, receipts, and warranties."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Permit & Registration Assistance",
+    "frequency":"as requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Assist with obtaining and organizing permits and registrations."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Organize mail & correspondence",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Sort and organize incoming and outgoing household mail."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Complete checklists & household walkthroughs (vendor quality and completion review)",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Perform household walkthroughs and complete quality checklists for vendor work."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Adjust task list based on household needs and feedback from vendors",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Update and adapt household task lists according to needs and vendor feedback."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Track, accept and organize deliveries",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Receive, track, and organize household deliveries."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Oversee \/ Supervise vendors (cleaners, gardeners, chefs)",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Supervise and coordinate work performed by household vendors."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"Schedule\/oversee maintenance, repairs, seasonal services",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Schedule and supervise maintenance, repairs, and seasonal services."
+  },
+  {
+    "category":"Admin & Paperwork",
+    "service":"schedule and Coordinate vendor visits (plumber, cleaner, tech support, etc.)",
+    "frequency":"monthly",
+    "status":"active",
+    "featured":true,
+    "description":"Arrange and coordinate visits from various household vendors.",
+    "image": "/images/Services/schedule-coordinate-vendor-visits.jpg"
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Light childcare (light supervision, oversee homework, babysitting & bedtime help)",
+    "frequency":"weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Provide light supervision, help with homework, babysitting, and bedtime routines."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Prepare snacks",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Prepare and serve snacks for children as needed."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Coordinate or perform school drop-offs",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Coordinate or handle school drop-offs for children."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"School pickup or receive children",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Pick up or receive children from school."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Pack children's school lunches \/ backpacks",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Pack school lunches and prepare backpacks for children."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Driving family members (if licensed)",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Drive family members to appointments, school, or activities."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Plan & oversee playdates",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Plan and supervise playdates for children."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Manage children's drop-off\/pick-up",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Manage drop-off and pick-up schedules for children."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Assist with homework",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Help children with their homework assignments."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Organize children's laundry\/school items",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Organize and manage children's laundry and school items."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Drive to doctor's\/dental appointments",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Drive children to doctor or dental appointments."
+  },
+  {
+    "category":"Childcare & Family Coordination",
+    "service":"Transport children to activities, school, playdates",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Transport children to various activities, school, and playdates."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Provide companionship & emotional support",
+    "frequency":"daily",
+    "status":"active",
+    "featured":false,
+    "description":"Offer companionship and emotional support for elderly individuals."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Escort to appointments & social\/outings",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Accompany elderly individuals to appointments and social outings."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Assist with meals & reheating",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Help with meal preparation and reheating for elderly residents."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Light housekeeping tailored for elderly",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Perform light housekeeping tasks tailored to elderly needs."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Medication reminders & basic management",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Provide reminders and basic management for medications."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Mobility support: escort to\/from vehicle & around the home",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Assist with mobility and safe movement in and around the home."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Ensure home safety: remove hazards, adjust temperatures",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Ensure the home is safe by removing hazards and adjusting temperatures."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Monitor well-being & communicate health\/logistics with family",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Monitor well-being and communicate health updates to family."
+  },
+  {
+    "category":"Elderly (Non-Nursing) Care",
+    "service":"Financial help: budget tracking, bill payments, fraud avoidance",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Assist with financial tasks such as budget tracking and bill payments."
+  },
+  {
+    "category":"Errands & Personal Shopping",
+    "service":"Prescription & Pharmacy Runs",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Pick up prescriptions and make pharmacy runs as needed."
+  },
+  {
+    "category":"Errands & Personal Shopping",
+    "service":"Gift Selection & Purchasing",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Select and purchase gifts for various occasions."
+  },
+  {
+    "category":"Errands & Personal Shopping",
+    "service":"Dry Cleaning & Laundry Drop-off\/Pick-up",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Drop off and pick up dry cleaning and laundry items."
+  },
+  {
+    "category":"Errands & Personal Shopping",
+    "service":"Package & purchase returns",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Handle package and purchase returns efficiently."
+  },
+  {
+    "category":"Errands & Personal Shopping",
+    "service":"Gift wrapping",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Wrap gifts for special occasions and events."
+  },
+  {
+    "category":"Errands & Personal Shopping",
+    "service":"General errands (bank, post office, car service, etc.)",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Run general errands such as banking, post office, and car service."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Party & Gathering Planning",
+    "frequency":"as requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Plan and coordinate parties and gatherings, including logistics and invitations."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Vendor Research (caterers, entertainers)",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Research and recommend vendors such as caterers and entertainers."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Invitation Management & RSVP Tracking",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Manage invitations and track RSVPs for events."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"On-site Day-of Coordination",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Coordinate and manage event logistics on the day of the event."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"One-time event booking",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Book venues and services for one-time events."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Greet guests \/ receive visitors",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Welcome and receive guests or visitors for events."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Coordinate formal service for dinner parties or guests",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Coordinate formal service for dinner parties or special guests."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Packing \/ Unpacking",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Assist with packing and unpacking for events or travel."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Prep guest rooms & the home for visitors\/events",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Prepare guest rooms and the home for visitors or events."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Vacation Planning",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Plan vacations, including travel arrangements and accommodations."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Assist with event setup and post-event cleanup",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Help with event setup and cleanup after the event."
+  },
+  {
+    "category":"Event & Travel Prepreparation",
+    "service":"Décor Setup, floral arrangments, welcome baskets",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Set up décor, arrange flowers, and prepare welcome baskets for events."
+  },
+  {
+    "category":"Finance & Budget Tracking",
+    "service":"Monthly Budget Preparation",
+    "frequency":"monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Prepare and review the household's monthly budget."
+  },
+  {
+    "category":"Finance & Budget Tracking",
+    "service":"Record receipts, Track expenses, reconciling budget",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Record receipts, track expenses, and reconcile the household budget."
+  },
+  {
+    "category":"Finance & Budget Tracking",
+    "service":"Vendor Invoice Collection",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Collect and organize invoices from household vendors."
+  },
+  {
+    "category":"Finance & Budget Tracking",
+    "service":"Pay household bills & vendor invoices",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Pay household bills and vendor invoices on time."
+  },
+  {
+    "category":"Finance & Budget Tracking",
+    "service":"Budget management & billing oversight",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Oversee budget management and billing for the household."
+  },
+  {
+    "category":"Health & Safety Checks",
+    "service":"Security check of doors, lights and systems",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Perform security checks on doors, lights, and household systems."
+  },
+  {
+    "category":"Health & Safety Checks",
+    "service":"Air-filter changes",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Change air filters to maintain healthy indoor air quality."
+  },
+  {
+    "category":"Health & Safety Checks",
+    "service":"Alarm battery test",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Test alarm batteries to ensure safety systems are operational."
+  },
+  {
+    "category":"Health & Safety Checks",
+    "service":"Update emergency kits (batteries, flashlights, meds)",
+    "frequency":"seasonally",
+    "status":"active",
+    "featured":true,
+    "description":"Update emergency kits with fresh batteries, flashlights, and medications.",
+    "image": "/images/Services/update-emergency-kits.jpg"
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Towel & Linen Refresh (wash/change towels, change bedding)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Wash and change towels, refresh linens, and change bedding."
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Wipe-Down / Sanitize high-touch surfaces, kitchen & appliance ",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Sanitize high-touch surfaces, kitchen areas, and appliances."
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Trash & Recycling Take-Out",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Take out trash and recycling daily to maintain cleanliness."
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Plant Care & Garden Watch",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Care for household plants and monitor garden health."
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Pet Services (feed, groom, walks, pet sitting, vet visits)",
+    "frequency":"daily",
+    "status":"active",
+    "featured":true,
+    "description":"Feed, groom, walk pets, provide pet sitting, and handle vet visits.",
+    "image": "/images/Services/pet-services.jpg"
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Morning Transition (open blinds, tidy main area, adjust lighting and thermostat)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":true,
+    "description":"Open blinds, tidy main areas, and adjust lighting and thermostat for the morning.",
+    "image": "images/Services/morning-transition_.jpg"
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Afternoon Transition (Ensure a clean, calm environment when the family returns)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Ensure a clean and calm environment for the family's return in the afternoon."
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Evening Transition (kitchen reset, turn down beds, tidy common spaces)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":true,
+    "description":"Reset the kitchen, turn down beds, and tidy common spaces in the evening.",
+    "image": "images/Services/evening-transition_.jpg"
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Home-Refresh Services (Upholstery steam clean, floor polishing, seasonal porch refresh)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Provide home-refresh services such as upholstery cleaning and floor polishing."
+  },
+  {
+    "category":"Laundry & Wardrobe Care",
+    "service":"Laundry Service (wash, dry, fold, iron)",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Complete laundry service including washing, drying, folding, and ironing."
+  },
+  {
+    "category":"Laundry & Wardrobe Care",
+    "service":"Closet organization, rotation & wardrobe consulting (seasonal organization)",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Organize closets, rotate wardrobe, and provide seasonal consulting."
+  },
+  {
+    "category":"Laundry & Wardrobe Care",
+    "service":"Press cloths & put them away",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Press clothes and put them away neatly."
+  },
+  {
+    "category":"Lifestyle & Special Services",
+    "service":"Plan and oversee social engagements & community/expert events",
+    "frequency":"Seasonally",
+    "status":"pending",
+    "featured":false,
+    "description":"Plan and manage social engagements and community events."
+  },
+  {
+    "category":"Lifestyle & Special Services",
+    "service":"Seasonal wardrobe & closet organization; coordinate clothing/shoe purchases",
+    "frequency":"seasonally",
+    "status":"active",
+    "featured":true,
+    "description":"Organize seasonal wardrobes and coordinate clothing or shoe purchases.",
+    "image": "/images/Services/seasonal-wardrobe-closet-organization.jpg"
+  },
+  {
+    "category":"Lifestyle & Special Services",
+    "service":"Oversee household inventory (linens, cleaning supplies, pantry staples)",
+    "frequency":"Seasonally",
+    "status":"pending",
+    "featured":false,
+    "description":"Monitor and manage household inventory of linens, supplies, and pantry items."
+  },
+  {
+    "category":"Lifestyle & Special Services",
+    "service":"Vehicle logistics: coordinate detailing, servicing, registration renewals",
+    "frequency":"Seasonally",
+    "status":"pending",
+    "featured":false,
+    "description":"Coordinate vehicle detailing, servicing, and registration renewals."
+  },
+  {
+    "category":"Lifestyle & Special Services",
+    "service":"School/Activity Sign-ups",
+    "frequency":"Seasonally",
+    "status":"pending",
+    "featured":false,
+    "description":"Assist with sign-ups for school and extracurricular activities."
+  },
+  {
+    "category":"Lifestyle & Special Services",
+    "service":"Holiday Decor & Seasonal Prep",
+    "frequency":"Seasonally",
+    "status":"active",
+    "featured":true,
+    "description":"Decorate for holidays and prepare the home for seasonal changes.",
+    "image": "/images/Services/holiday-decor-seasonal-prep_.jpg"
+  },
+  {
+    "category":"Lifestyle & Special Services",
+    "service":"Weekly Outfit Planning",
+    "frequency":"Seasonally",
+    "status":"pending",
+    "featured":false,
+    "description":"Plan weekly outfits for household members."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Weekly Meal Planning (menu creation, recipe sourcing)",
+    "frequency":"daily",
+    "status":"active",
+    "featured":true,
+    "description":"Plan weekly meals, create menus, and source recipes for the household.",
+    "image": "/images/Services/weekly-meal-planning.jpg"
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Grocery Shopping & Delivery (based on meal plan)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":true,
+    "description":"Shop for groceries and deliver them based on the household meal plan.",
+    "image": "/images/Services/grocery-shopping-delivery_.jpg"
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Pantry Inventory & Restock",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Maintain pantry inventory and restock as needed."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Special-Diet or Allergy Grocery Sourcing",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Source groceries for special diets or allergies."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Keep running household supply inventory",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Track and maintain inventory of household supplies."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Meal preparation & cooking",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Prepare and cook meals for the household."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Reheat & serve meals",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Reheat and serve meals as needed."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Child-specific meals/snacks",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Prepare meals and snacks tailored for children."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Morning Prep of Breakfast",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Prepare breakfast for the household each morning."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Prepare & Serve Morning Tea / Coffee / Breakfast",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Prepare and serve morning tea, coffee, or breakfast."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Dinner preparation (marinate, wash produce, thaw items)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":true,
+    "description":"Prepare dinner by marinating, washing produce, and thawing items.",
+    "image": "/images/Services/dinner-preparation.jpg"
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Preparation of dinner (cook, reheat, and serve)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Cook, reheat, and serve dinner for the household."
+  },
+  {
+    "category":"Meals, Grocery & Household Supplies",
+    "service":"Serve dinner, clear and clean up afterward",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Serve dinner and clean up afterward."
+  },
+  {
+    "category":"Organization & Decluttering",
+    "service":"Closet Organization & Seasonal Swap",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Organize closets and swap out seasonal clothing and items."
+  },
+  {
+    "category":"Organization & Decluttering",
+    "service":"Pantry\/Storage Decluttering",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Declutter pantry and storage areas for better organization."
+  },
+  {
+    "category":"Organization & Decluttering",
+    "service":"Home Office & Filing System Setup",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Set up and organize home office and filing systems."
+  },
+  {
+    "category":"Organization & Decluttering",
+    "service":"Garage\/Basement Organization",
+    "frequency":"Monthly",
+    "status":"pending",
+    "featured":false,
+    "description":"Organize garage and basement spaces for improved functionality."
+  },
+  {
+    "category":"Scheduling & Calendar Management",
+    "service":"Appointment Booking",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Book and manage appointments for household members."
+  },
+  {
+    "category":"Scheduling & Calendar Management",
+    "service":"Event & Meeting Coordination",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Coordinate events and meetings for the household."
+  },
+  {
+    "category":"Scheduling & Calendar Management",
+    "service":"Plan travel arrangements & itineraries",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Plan and organize travel arrangements and itineraries."
+  },
+  {
+    "category":"Scheduling & Calendar Management",
+    "service":"Daily\/Weekly Agenda Prep",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Prepare daily and weekly agendas for the household."
+  },
+  {
+    "category":"Scheduling & Calendar Management",
+    "service":"Vendor appointment Scheduling & Reminders",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Schedule vendor appointments and send reminders."
+  },
+  {
+    "category":"Scheduling & Calendar Management",
+    "service":"Manage family calendars & communicate changes",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Manage family calendars and communicate any changes."
+  },
+  {
+    "category":"Tech & Home-Office Assistance",
+    "service":"Smart-Home Device Setup",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Set up smart-home devices for improved convenience and security."
+  },
+  {
+    "category":"Tech & Home-Office Assistance",
+    "service":"Wi-Fi\/Printer Troubleshooting",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Troubleshoot Wi-Fi and printer issues in the home."
+  },
+  {
+    "category":"Tech & Home-Office Assistance",
+    "service":"Home-Office Supply Restocks",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Restock home-office supplies as needed."
+  },
+  {
+    "category":"Tech & Home-Office Assistance",
+    "service":"Basic Software\/App Scheduling Tools",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Assist with basic software and app scheduling tools."
+  },
+  {
+    "category":"Vendor & Home Services Coordination",
+    "service":"Service Quote Collection",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Collect service quotes from various vendors for household needs."
+  },
+  {
+    "category":"Vendor & Home Services Coordination",
+    "service":"On-site Point-of-Contact",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Act as the on-site point-of-contact for vendor services."
+  },
+  {
+    "category":"Vendor & Home Services Coordination",
+    "service":"Service Confirmation & Feedback",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Confirm service completion and collect feedback from vendors."
+  },
+  {
+    "category":"Tech & Home-Office Assistance",
+    "service":"Handle small tech support needs (Wi-Fi reset remote setup)",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Handle small tech support needs such as Wi-Fi resets and remote setups."
+  },
+  {
+    "category":"Tech & Home-Office Assistance",
+    "service":"Smart-Home Setup Assistance (Thermostat, camera setup & keyless lock coodination)",
+    "frequency":"As Requested",
+    "status":"inactive",
+    "featured":false,
+    "description":"Assist with smart-home setup including thermostats, cameras, and locks."
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Vehicle Services (Detailing, oil change, registration assistance)",
+    "frequency":"Daily",
+    "status":"active",
+    "featured":false,
+    "description":"Coordinate vehicle detailing, oil changes, and registration assistance."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Wash dishes, tidy kitchen",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Wash dishes and tidy the kitchen to maintain cleanliness."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Sweep/vacuum & mop floors",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Sweep, vacuum, and mop floors throughout the home."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Empty trash, sntitize & replace liners",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Empty trash, sanitize bins, and replace liners regularly."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Internal & External Window cleaning",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Clean internal and external windows for a clear view."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Deep appliance clean (oven, fridge, dishwasher)",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Deep clean appliances such as ovens, fridges, and dishwashers."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Clean baseboards, window sills",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Clean baseboards and window sills to remove dust and dirt."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Deep clean (windows, grout, vents, upholstery)",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Deep clean windows, grout, vents, and upholstery."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Clean behind appliances & under furniture",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Clean behind appliances and under furniture for thoroughness."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Clean dryer vent",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Clean the dryer vent to ensure safety and efficiency."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"clear sink & load dishwasher",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Clear the sink and load the dishwasher after meals."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Sweep & mop floors, vacuum carpets/rugs",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Sweep and mop floors, vacuum carpets and rugs."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Light cleaning of living spaces",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Perform light cleaning of all living spaces."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Dusting (furniture, shelves, fan/light fixtures)",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Dust furniture, shelves, and fan/light fixtures."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Clean Bathrooms",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Clean and sanitize all bathrooms in the home."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"The use of Premium eco-friendly cleaning products",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Use premium, eco-friendly cleaning products for all tasks."
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Organize and restock pantry and refrigerator",
+    "frequency":"weekly",
+    "status":"active",
+    "featured":true,
+    "description":"Organize and restock the pantry and refrigerator regularly.",
+    "image": "/images/Services/organize-restock-pantry-refrigerator.jpg"
+  },
+  {
+    "category":"Cleaning & Maintenance",
+    "service":"Make beds and tidy bedrooms",
+    "frequency":"Weekly",
+    "status":"active",
+    "featured":false,
+    "description":"Make beds and tidy up all bedrooms."
+  },
+  {
+    "category":"Household Care & Housekeeping",
+    "service":"Coordinate landscaping and garden refresh",
+    "frequency":"seasonally",
+    "status":"active",
+    "featured":true,
+    "description":"Work with the garden vendor(s) to ensure a successful refresh of your lawn and garden.",
+    "image": "/images/Services/coordinate-landscaping-garden-refresh_.jpg"
+  }
+]

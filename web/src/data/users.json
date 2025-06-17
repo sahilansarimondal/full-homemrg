@@ -1,0 +1,340 @@
+{
+  "managers": [
+    {
+      "id": "manager-jane-doe",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "jane.doe@yourdomain.com",
+      "password": "secureHashedPassword",
+      "role": "manager"
+    }
+  ],
+
+  "homeowners": [
+    {
+      "id": "john-smith",
+      "firstName": "John",
+      "lastName": "Smith",
+      "streetAddress": "123 Maple Street",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "78701",
+      "email": "john.smith@example.com",
+      "password": "plainOrHashedPasswordHere"
+    },
+    {
+      "id": "emma-johnson",
+      "firstName": "Emma",
+      "lastName": "Johnson",
+      "streetAddress": "456 Oak Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60610",
+      "email": "emma.johnson@example.com",
+      "password": "anotherSecurePassword"
+    }
+  ],
+
+  "contractors": [
+    {
+      "id": "olivia-thomas",
+      "name": "Olivia Thomas",
+      "title": "Household Operations Specialist",
+      "region": "Austin, TX",
+      "image": "/images/Managers/olivia-thomas.jpg",
+      "bio": "Olivia helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Time Management",
+        "Work-Life Balance"
+      ]
+    },
+    {
+      "id": "james-reed",
+      "name": "James Reed",
+      "title": "Efficiency Coach",
+      "region": "Chicago, IL",
+      "image": "/images/Managers/james-reed.jpg",
+      "bio": "James helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Decluttering",
+        "Mindfulness"
+      ]
+    },
+    {
+      "id": "maya-gonzalez",
+      "name": "Maya Gonzalez",
+      "title": "Lifestyle Strategist",
+      "region": "Los Angeles, CA",
+      "image": "/images/Managers/maya-gonzalez.jpg",
+      "bio": "Maya helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Routine Design",
+        "Meal Planning"
+      ]
+    },
+    {
+      "id": "rachel-cho",
+      "name": "Rachel Cho",
+      "title": "Organization Consultant",
+      "region": "Seattle, WA",
+      "image": "/images/Managers/rachel-cho.jpg",
+      "bio": "Rachel helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Work-Life Balance",
+        "Child Scheduling"
+      ]
+    },
+    {
+      "id": "liam-walker",
+      "name": "Liam Walker",
+      "title": "Systems Coach",
+      "region": "Miami, FL",
+      "image": "/images/Managers/liam-walker.jpg",
+      "bio": "Liam helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Mindfulness",
+        "Home Office Setup"
+      ]
+    },
+    {
+      "id": "nina-keller",
+      "name": "Nina Keller",
+      "title": "Balance Strategist",
+      "region": "Denver, CO",
+      "image": "/images/Managers/nina-keller.jpg",
+      "bio": "Nina helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Meal Planning",
+        "Productivity"
+      ]
+    },
+    {
+      "id": "tyler-johnson",
+      "name": "Tyler Johnson",
+      "title": "Routine Design Specialist",
+      "region": "New York, NY",
+      "image": "/images/Managers/tyler-johnson.jpg",
+      "bio": "Tyler helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Child Scheduling",
+        "Stress Reduction"
+      ]
+    },
+    {
+      "id": "zoe-rivers",
+      "name": "Zoe Rivers",
+      "title": "Wellness Coach",
+      "region": "Portland, OR",
+      "image": "/images/Managers/zoe-rivers.jpg",
+      "bio": "Zoe helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Home Office Setup",
+        "Habit Building"
+      ]
+    },
+    {
+      "id": "emma-flores",
+      "name": "Emma Flores",
+      "title": "Minimalism Mentor",
+      "region": "Phoenix, AZ",
+      "image": "/images/Managers/emma-flores.jpg",
+      "bio": "Emma helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Productivity",
+        "Wellness Routines"
+      ]
+    },
+    {
+      "id": "matt-barnes",
+      "name": "Matt Barnes",
+      "title": "Structure Coach",
+      "region": "Atlanta, GA",
+      "image": "/images/Managers/matt-barnes.jpg",
+      "bio": "Matt helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Stress Reduction",
+        "Time Management"
+      ]
+    },
+    {
+      "id": "sophia-clark",
+      "name": "Sophia Clark",
+      "title": "Home Life Expert",
+      "region": "San Diego, CA",
+      "image": "/images/Managers/sophia-clark.jpg",
+      "bio": "Sophia helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Habit Building",
+        "Decluttering"
+      ]
+    },
+    {
+      "id": "benjamin-hayes",
+      "name": "Benjamin Hayes",
+      "title": "Rhythm Strategist",
+      "region": "Boston, MA",
+      "image": "/images/Managers/benjamin-hayes.jpg",
+      "bio": "Benjamin helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Wellness Routines",
+        "Routine Design"
+      ]
+    },
+    {
+      "id": "ava-simmons",
+      "name": "Ava Simmons",
+      "title": "Planning Consultant",
+      "region": "Houston, TX",
+      "image": "/images/Managers/ava-simmons.jpg",
+      "bio": "Ava helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Time Management",
+        "Work-Life Balance"
+      ]
+    },
+    {
+      "id": "daniel-torres",
+      "name": "Daniel Torres",
+      "title": "Habit Specialist",
+      "region": "Orlando, FL",
+      "image": "/images/Managers/daniel-torres.jpg",
+      "bio": "Daniel helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Decluttering",
+        "Mindfulness"
+      ]
+    },
+    {
+      "id": "grace-murphy",
+      "name": "Grace Murphy",
+      "title": "Family Dynamics Coach",
+      "region": "Cleveland, OH",
+      "image": "/images/Managers/grace-murphy.jpg",
+      "bio": "Grace helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Routine Design",
+        "Meal Planning"
+      ]
+    },
+    {
+      "id": "logan-brooks",
+      "name": "Logan Brooks",
+      "title": "Household Operations Specialist",
+      "region": "Minneapolis, MN",
+      "image": "/images/Managers/logan-brooks.jpg",
+      "bio": "Logan helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Work-Life Balance",
+        "Child Scheduling"
+      ]
+    },
+    {
+      "id": "chloe-bennett",
+      "name": "Chloe Bennett",
+      "title": "Efficiency Coach",
+      "region": "Dallas, TX",
+      "image": "/images/Managers/chloe-bennett.jpg",
+      "bio": "Chloe helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Mindfulness",
+        "Home Office Setup"
+      ]
+    },
+    {
+      "id": "elijah-green",
+      "name": "Elijah Green",
+      "title": "Lifestyle Strategist",
+      "region": "Nashville, TN",
+      "image": "/images/Managers/elijah-green.jpg",
+      "bio": "Elijah helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Meal Planning",
+        "Productivity"
+      ]
+    },
+    {
+      "id": "lily-ramirez",
+      "name": "Lily Ramirez",
+      "title": "Organization Consultant",
+      "region": "Tampa, FL",
+      "image": "/images/Managers/lily-ramirez.jpg",
+      "bio": "Lily helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Child Scheduling",
+        "Stress Reduction"
+      ]
+    },
+    {
+      "id": "lucas-ford",
+      "name": "Lucas Ford",
+      "title": "Systems Coach",
+      "region": "Salt Lake City, UT",
+      "image": "/images/Managers/lucas-ford.jpg",
+      "bio": "Lucas helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Home Office Setup",
+        "Habit Building"
+      ]
+    },
+    {
+      "id": "aria-morgan",
+      "name": "Aria Morgan",
+      "title": "Balance Strategist",
+      "region": "Charlotte, NC",
+      "image": "/images/Managers/aria-morgan.jpg",
+      "bio": "Aria helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Productivity",
+        "Wellness Routines"
+      ]
+    },
+    {
+      "id": "caleb-bryant",
+      "name": "Caleb Bryant",
+      "title": "Routine Design Specialist",
+      "region": "Indianapolis, IN",
+      "image": "/images/Managers/caleb-bryant.jpg",
+      "bio": "Caleb helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Stress Reduction",
+        "Time Management"
+      ]
+    },
+    {
+      "id": "sofia-kim",
+      "name": "Sofia Kim",
+      "title": "Wellness Coach",
+      "region": "San Jose, CA",
+      "image": "/images/Managers/sofia-kim.jpg",
+      "bio": "Sofia helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Habit Building",
+        "Decluttering"
+      ]
+    },
+    {
+      "id": "owen-wallace",
+      "name": "Owen Wallace",
+      "title": "Minimalism Mentor",
+      "region": "Philadelphia, PA",
+      "image": "/images/Managers/owen-wallace.jpg",
+      "bio": "Owen helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Wellness Routines",
+        "Routine Design"
+      ]
+    },
+    {
+      "id": "harper-jenkins",
+      "name": "Harper Jenkins",
+      "title": "Structure Coach",
+      "region": "Raleigh, NC",
+      "image": "/images/Managers/harper-jenkins.jpg",
+      "bio": "Harper helps households with personalized strategies for managing home life.",
+      "specialties": [
+        "Time Management",
+        "Work-Life Balance"
+      ]
+    }
+  ]
+}

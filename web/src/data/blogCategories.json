@@ -1,0 +1,512 @@
+[
+  {
+    "category": "Home Organization & Decluttering",
+    "topics": [
+      "Closet Hacks & Storage Solutions",
+      "Minimalist Living Room Tips",
+      "Decluttering with Kids",
+      "Seasonal Declutter Challenges",
+      "Home Office Setup & Flow"
+    ],
+    "slug": "home-organization-decluttering",
+    "description": "Smart strategies to organize your home and eliminate clutter room by room.",
+    "image": "/images/Resources/home-organization-decluttering.jpg"
+  },
+  {
+    "category": "Cleaning & Maintenance",
+    "topics": [
+      "Cleaning Schedules by Room",
+      "Eco-Friendly Cleaning Tips",
+      "Monthly Home Maintenance Checklists",
+      "DIY Cleaning Product Recipes",
+      "Deep-Cleaning Tricks Pros Use"
+    ],
+    "slug": "cleaning-maintenance",
+    "description": "Simple routines and effective products to keep your home spotless and running smoothly.",
+    "image": "/images/Resources/cleaning-maintenance.jpg"
+  },
+  {
+    "category": "Time Management & Routines",
+    "topics": [
+      "Morning & Evening Routine Ideas",
+      "Time-Saving Tips for Busy Families",
+      "Meal Prep & Planning Shortcuts",
+      "Building a Household Schedule",
+      "Weekend Reset Rituals"
+    ],
+    "slug": "time-management-routines",
+    "description": "Practical tips for building household rhythms, morning routines, and time-saving systems.",
+    "image": "/images/Resources/time-management-routine.jpg"
+  },
+  {
+    "category": "Family & Kid Management",
+    "topics": [
+      "Chore Charts by Age Group",
+      "Organizing School Papers & Homework",
+      "Managing Screen Time at Home",
+      "Family Calendar Tools & Tips",
+      "Sanity-Saving Snack Systems"
+    ],
+    "slug": "family-kid-management",
+    "description": "Creative ways to manage chores, schoolwork, and screen time while raising confident kids.",
+    "image": "/images/Resources/family-kid-management.jpg"
+  },
+  {
+    "category": "Mindful & Productive Living",
+    "topics": [
+      "Creating Calm Spaces at Home",
+      "Habit-Tracking at Home",
+      "Micro-Moments of Mindfulness",
+      "Tips for Working from Home Efficiently",
+      "Mental Clutter & Physical Space"
+    ],
+    "slug": "mindful-productive-living",
+    "description": "Bring calm and focus into your home with intentional habits and mindset shifts.",
+    "image": "/images/Resources/mindful-productive-living_.jpg"
+  },
+  {
+    "category": "Fun Facts & Inspiration",
+    "topics": [
+      "Weird Household History (Fun Facts!)",
+      "Most-Organized Homes in Pop Culture",
+      "Favorite Tools from Professional Organizers",
+      "Before & After Makeovers (Client Stories)",
+      "Fun Family Challenges (No-Spend, No-Screen, etc.)"
+    ],
+    "slug": "fun-facts-inspiration",
+    "description": "Get inspired with home-related trivia, makeovers, and organizing success stories.",
+    "image": "/images/Resources/fun-facts-inspiration.jpg"
+  },
+  {
+    "category": "Household Systems & Setup",
+    "topics": [
+      "Designing Zones for Efficiency",
+      "Home Binder Essentials",
+      "How to Build a Command Center Wall",
+      "Digital Organization",
+      "Weekly Reset Systems That Stick",
+      "Organizing Small Spaces",
+      "Paper Management & Mail Sorting",
+      "Automating Bill Payments",
+      "Shared Family Calendar",
+      "Favorite Household Apps"
+    ],
+    "slug": "household-systems-setup",
+    "description": "Efficient household workflows, family binders, and zone-based setup tips.",
+    "image": "/images/Resources/household-system-setup.jpg"
+  },
+  {
+    "category": "Food, Shopping & Kitchen Management",
+    "topics": [
+      "Pantry Organization",
+      "Grocery Inventory System",
+      "Batch Cooking 101",
+      "Meal Planning for Busy Weeks",
+      "Budget Grocery Tips",
+      "Kitchen Tools That Earn Their Shelf Space",
+      "Fridge Organization",
+      "Streamlining School Lunches",
+      "Spice Cabinet Reset",
+      "Smart Leftover Systems"
+    ],
+    "slug": "food-shopping-kitchen-management",
+    "description": "Meal planning, grocery tips, and kitchen hacks to simplify daily life.",
+    "image": "/images/Resources/food-shopping-kitchen-management.jpg"
+  },
+  {
+    "category": "Budgeting, Bills & Household Finances",
+    "topics": [
+      "Monthly Budget Templates",
+      "Emergency Fund Setup",
+      "Track Expenses with Spreadsheets",
+      "Save vs. Splurge at Home",
+      "Subscription Audit",
+      "Utility Bill Hacks",
+      "Grocery Budget Challenges",
+      "Family Finance Meetings",
+      "Teaching Kids About Money",
+      "Automating Savings"
+    ],
+    "slug": "budgeting-bills-household-finances",
+    "description": "Organize your home finances, automate savings, and master the monthly budget.",
+    "image": "/images/Resources/budgeting-bills-household-finances.jpg"
+  },
+  {
+    "category": "Home Hacks, DIYs & Sustainability",
+    "topics": [
+      "Household Uses for Baking Soda",
+      "DIY Cleaning Caddy",
+      "Creative Repurposing",
+      "Start a Family Compost Bin",
+      "Quick Home Fixes",
+      "Green Swaps You'll Love",
+      "Weekend DIYs",
+      "No-Spend Challenges",
+      "Best Thrift Store Hacks",
+      "Laundry Sustainability Tips"
+    ],
+    "slug": "home-hacks-diys-sustainability",
+    "description": "Creative DIYs and sustainable practices to make your home efficient and eco-conscious.",
+    "image": "/images/Resources/home-hacks-diys-sustainability.jpg"
+  },
+  {
+    "category": "Wellness & Mental Health at Home",
+    "topics": [
+      "Creating a Zen Space",
+      "Mental Clutter vs. Physical Clutter",
+      "Mindfulness in Routines",
+      "Stress-Reducing Cleaning",
+      "Aromatherapy at Home",
+      "Journaling Space Setup",
+      "Work-Life Boundaries",
+      "Self-Care Systems",
+      "Morning Calm Rituals",
+      "Decluttering for Mental Health"
+    ],
+    "slug": "wellness-mental-health-at-home",
+    "description": "Design your home to promote mindfulness, balance, and emotional well-being.",
+    "image": "/images/Resources/wellness-mental-health-at-home.jpg"
+  },
+  {
+    "category": "Moving, Downsizing & Life Transitions",
+    "topics": [
+      "Pre-Move Decluttering",
+      "Moving with Kids",
+      "Labeling Systems for Packing",
+      "Unpacking in Phases",
+      "First-Night Box",
+      "Transition to Assisted Living",
+      "Downsizing Tips",
+      "Estate Organization",
+      "Room Planning with Apps",
+      "Post-Move Utility Setup"
+    ],
+    "slug": "moving-downsizing-life-transitions",
+    "description": "Organized solutions for packing, downsizing, and navigating big home transitions.",
+    "image": "/images/Resources/moving-downsizing-life-transitions.jpg"
+  },
+  {
+    "category": "Laundry, Linens & Clothing Systems",
+    "topics": [
+      "Laundry Room Makeovers",
+      "Capsule Wardrobes",
+      "Family Laundry Flow",
+      "Kids Clothing Rotation",
+      "Linen Closet Setup",
+      "Laundry Product Storage",
+      "Stain Removal Chart",
+      "Ironing vs. Steaming",
+      "Space-Saving Folding Styles",
+      "Weekly Laundry Scheduling"
+    ],
+    "slug": "laundry-linens-clothing-systems",
+    "description": "Set up systems for laundry, wardrobe rotation, and linen management with ease.",
+    "image": "/images/Resources/laundry-linens-clothing-systems.jpg"
+  },
+  {
+    "category": "Teaching Life Skills at Home",
+    "topics": [
+      "Chores by Age",
+      "Teen Finance Basics",
+      "Grocery Shopping 101",
+      "Time Skills for Kids",
+      "Reading a Utility Bill",
+      "Basic Cooking Skills",
+      "Clothing Care",
+      "Calendar Habits for Kids",
+      "School Readiness Routines",
+      "The Sunday Setup Routine"
+    ],
+    "slug": "teaching-life-skills-at-home",
+    "description": "Home-based lessons in responsibility, time, and life readiness for all ages.",
+    "image": "/images/Resources/teaching-life-skills-at-home.jpg"
+  },
+  {
+    "category": "Bedroom & Sleep Environment",
+    "topics": [
+      "Bedtime Routine Hacks",
+      "No-Tech Wind-Down",
+      "Closet Reorg for Flow",
+      "Bedding Basics",
+      "Under-Bed Storage",
+      "Bedroom Color Psychology",
+      "Guest Room Prep",
+      "Weighted vs. Light Blankets",
+      "Nightstand Decluttering",
+      "Bedroom Lighting Tips"
+    ],
+    "slug": "bedroom-sleep-environment",
+    "description": "Optimize your bedroom for peace, productivity, and quality sleep.",
+    "image": "/images/Resources/bedroom-sleep-environment.jpg"
+  },
+  {
+    "category": "Parenting, Routines & Sanity Savers",
+    "topics": [
+      "Screen-Free Rotations",
+      "Snack Zones & Lunch Packing",
+      "After-School Drop Zones",
+      "Family Morning Flowcharts",
+      "Kid Calendar Corners",
+      "Shared Agreements",
+      "Toy Rotation System",
+      "Homework Storage",
+      "Birthday Party Supply Bins",
+      "Toddler Yes Spaces"
+    ],
+    "slug": "parenting-routines-sanity-savers",
+    "description": "Sanity-saving strategies for smoother mornings, evenings, and everything in between.",
+    "image": "/images/Resources/parenting-routines-sanity-savers.jpg"
+  },
+  {
+    "category": "Seasonal & Holiday Home Management",
+    "topics": [
+      "Seasonal Cleaning Printables",
+      "Holiday Storage Solutions",
+      "Gift Wrap Stations",
+      "Post-Holiday Reset",
+      "Seasonal Clothing Swap",
+      "Holiday Hosting Checklist",
+      "Spring Cleaning by Room",
+      "Fall Prep Guide",
+      "Winter Warmth Prep",
+      "Holiday Sync Calendars"
+    ],
+    "slug": "seasonal-holiday-home-management",
+    "description": "Get ahead of the seasons and holidays with these organizational checklists.",
+    "image": "/images/Resources/seasonal-holiday-home-management.jpg"
+  },
+  {
+    "category": "Digital Life & Tech Organization",
+    "topics": [
+      "Password Organizer Tips",
+      "Phone Organization",
+      "Best Home Apps",
+      "Digital Home Inventory",
+      "Managing Email Overload",
+      "Grocery List Apps",
+      "Focus Mode Settings",
+      "Kids' Tech Schedules",
+      "Digital Desktop Decluttering",
+      "Photo & Memory Organization"
+    ],
+    "slug": "digital-life-tech-organization",
+    "description": "Streamline your tech life: apps, passwords, files, and screen time under control.",
+    "image": "/images/Resources/digital-life-tech-organization.jpg"
+  },
+  {
+    "category": "Paperwork & Admin",
+    "topics": [
+      "Home Filing System",
+      "Medical Records Storage",
+      "Family Binder Templates",
+      "School Paper Management",
+      "Receipts & Warranties",
+      "Legacy Binder",
+      "Weekly Paper Clean-up",
+      "Date & Renewal Tracking",
+      "Subscription Organizer",
+      "How to Go Paperless"
+    ],
+    "slug": "paperwork-admin",
+    "description": "Tame the paper clutter and keep your life admin clean, clear, and organized.",
+    "image": "/images/Resources/paperwork-admin_.jpg"
+  },
+  {
+    "category": "Relationships, Roommates & Shared Spaces",
+    "topics": [
+      "Couples Chore Charts",
+      "Splitting Household Costs",
+      "Message Centers",
+      "Respecting Shared Space",
+      "Relationship Routines",
+      "Cleaning Agreements",
+      "Conflict Management at Home",
+      "Shared Supply Rotation",
+      "Small Room Sharing",
+      "Weekly Couple Check-ins"
+    ],
+    "slug": "relationships-roommates-shared-spaces",
+    "description": "Manage shared spaces and responsibilities with grace, whether family or roommates.",
+    "image": "/images/Resources/relationships-roommates-shared-spaces_.jpg"
+  },
+  {
+    "category": "Interior Styling & Home Aesthetics",
+    "topics": [
+      "Styling Without Clutter",
+      "Functional Entryway Design",
+      "Calm Color Palettes",
+      "Decor Meets Storage",
+      "Dual-Purpose Furniture",
+      "Renter-Friendly Styling",
+      "Home Mood Boards",
+      "Big Impact Small Budget",
+      "Calm vs. Cluttered Design",
+      "Pretty Storage Picks"
+    ],
+    "slug": "interior-styling-home-aesthetics",
+    "description": "Style meets function with decor tips that look good and work even better.",
+    "image": "/images/Resources/interior-styling-home-aesthetics.jpg"
+  },
+  {
+    "category": "Weekly, Monthly & Annual Routines",
+    "topics": [
+      "Weekly Cleaning Flow",
+      "Monthly Budget Check-in",
+      "Sunday Reset Rituals",
+      "Meal Planning Mondays",
+      "Monthly Calendar Night",
+      "Quarterly Paper Purge",
+      "Annual Home Inventory",
+      "Fridge Cleanout",
+      "Tech & Account Audit",
+      "Seasonal Donation Bin"
+    ],
+    "slug": "weekly-monthly-annual-routines",
+    "description": "Build seasonal and recurring home systems that support a smoother life.",
+    "image": "/images/Resources/weekly-monthly-annual-routines.jpg"
+  },
+  {
+    "category": "Pet-Friendly Home Management",
+    "topics": [
+      "Organize Pet Supplies",
+      "Pet Feeding Station Setup",
+      "Grooming Tools to Keep",
+      "Pet Odor Control",
+      "Vet Record Organization",
+      "Pet Emergency Plan",
+      "Toy Rotation for Pets",
+      "Cozy Pet Corners",
+      "Pet Hair Solutions",
+      "Leash & Treat Storage"
+    ],
+    "slug": "pet-friendly-home-management",
+    "description": "Keep pet life clean, happy, and functional with these smart home routines.",
+    "image": "/images/Resources/pet-friendly-home-management.jpg"
+  },
+  {
+    "category": "Emergency & Disaster Preparedness",
+    "topics": [
+      "Emergency Binder Setup",
+      "Go-Bag Checklist",
+      "Safe Storage for Documents",
+      "Backup Power Storage",
+      "First Aid Kit Setup",
+      "Fireproof Storage",
+      "Grab-and-Go Bin",
+      "Practice Emergency Drills",
+      "Seasonal Prep Checklists",
+      "Insurance Document Management"
+    ],
+    "slug": "emergency-disaster-preparedness",
+    "description": "Be ready for anything with household emergency plans, kits, and checklists.",
+    "image": "/images/Resources/emergency-disaster-preparedness.jpg"
+  },
+  {
+    "category": "Sustainable Home Practices",
+    "topics": [
+      "Plastic-Free Swaps",
+      "Waste Sorting Station",
+      "Composting Indoors",
+      "Zero-Waste Bathroom Tips",
+      "Eco Cleaning Tools",
+      "Thrifted Home Goods",
+      "Energy Saving at Home",
+      "Water Tracking Tips",
+      "Crafty Reuse Bins",
+      "Seasonal Sustainability"
+    ],
+    "slug": "sustainable-home-practices",
+    "description": "Live greener at home with low-waste systems and planet-friendly habits.",
+    "image": "/images/Resources/sustainable-home-practices.jpg"
+  },
+  {
+    "category": "Living Room & Shared Space Management",
+    "topics": [
+      "Hidden Storage in Living Room",
+      "Toy Containment Solutions",
+      "Remote Control Organizers",
+      "Seasonal Decor Swaps",
+      "Blanket & Pillow Storage",
+      "Coffee Table Styling",
+      "Family Game Zone Setup",
+      "Cord Management",
+      "Pickup Basket Systems",
+      "5-Minute Guest Reset"
+    ],
+    "slug": "living-room-shared-space-management",
+    "description": "Create flexible, calm, and clutter-free family gathering zones.",
+    "image": "/images/Resources/living-room-shared-space-management.jpg"
+  },
+  {
+    "category": "Travel & On-the-Go Organization",
+    "topics": [
+      "Packing Lists by Trip Type",
+      "Pre-Trip Checklist",
+      "Car Organization",
+      "Travel Documents Folder",
+      "Fridge Prep Before Travel",
+      "Travel Snack Prep",
+      "Suitcase Systems by Age",
+      "Toiletry Refills",
+      "Travel Essentials Bin",
+      "Post-Trip Reset"
+    ],
+    "slug": "travel-on-the-go-organization",
+    "description": "Packing, planning, and prepping your household before and after travel.",
+    "image": "/images/Resources/travel-on-the-go-organization.jpg"
+  },
+  {
+    "category": "Home Zones & Activity-Based Spaces",
+    "topics": [
+      "Homework Zones",
+      "Command Center Walls",
+      "Mudroom Setup",
+      "Meditation Corners",
+      "Cleaning Supply Zones",
+      "Charging Stations",
+      "Craft & Hobby Areas",
+      "Guest Prep Stations",
+      "Pantry Snack Zones",
+      "Donation Drop Areas"
+    ],
+    "slug": "home-zones-activity-based-spaces",
+    "description": "Designate purposeful areas at home for tasks, relaxation, hobbies, and more.",
+    "image": "/images/Resources/home-zones-activity-based-space.jpg"
+  },
+  {
+    "category": "Cooking Systems & Kitchen Flow",
+    "topics": [
+      "Meal Prep Zones",
+      "Kitchen Triangle Setup",
+      "Freezer Inventory Tips",
+      "Bulk Pantry Storage",
+      "Clean-as-You-Go Habits",
+      "Spice Cabinet Sort",
+      "Snack Drawer for Kids",
+      "Quick Meal Systems",
+      "Meal Planning Tools",
+      "Fridge Shelf Resets"
+    ],
+    "slug": "cooking-systems-kitchen-flow",
+    "description": "Design a kitchen that flows faster meals, better systems, and less chaos.",
+    "image": "/images/Resources/cooking-systems-kitchen-flow.jpg"
+  },
+  {
+    "category": "Systems That Save Your Sanity",
+    "topics": [
+      "10-Minute Tidy",
+      "Weekly Family Sync",
+      "Reset & Rotate Systems",
+      "Visual To-Do Boards",
+      "Auto-Replenish Tips",
+      "One-Bin-per-Person Hack",
+      "Drop Zone Sweeps",
+      "Laundry Launchpads",
+      "Birthday + Gift Tracker",
+      "System Audits"
+    ],
+    "slug": "systems-that-save-your-sanity",
+    "description": "Set it and forget it: home systems that simplify your life on autopilot.",
+    "image": "/images/Resources/systems-that-save-your-sanity.jpg"
+  }
+]
