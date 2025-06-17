@@ -18,7 +18,7 @@ const ResetPassword = () => {
     const checkToken = async () => {
       try {
         await axios.get(
-          `http://localhost:4000/api/auth/validate-reset-token/${token}`
+          `${process.env.REACT_APP_API_URL}/api/auth/validate-reset-token/${token}`
         );
         setValidToken(true);
       } catch (err) {
@@ -38,7 +38,7 @@ const ResetPassword = () => {
 
     try {
       const response = await axios.post(
-        `http://localhost:4000/api/auth/reset-password/${token}`,
+        `${process.env.REACT_APP_API_URL}/api/auth/reset-password/${token}`,
         { password }
       );
       setMessage(response.data.message);

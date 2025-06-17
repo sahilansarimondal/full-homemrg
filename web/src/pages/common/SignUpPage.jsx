@@ -69,11 +69,14 @@ export default function SignUpPage() {
       setZipError(null);
     }
 
-    const res = await fetch("http://localhost:4000/api/user/signup", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(form),
-    });
+    const res = await fetch(
+      `${process.env.REACT_APP_API_URL}/api/user/signup`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(form),
+      }
+    );
     if (!res.ok) {
       alert("Registration failed");
       return;

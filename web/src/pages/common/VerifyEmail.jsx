@@ -13,7 +13,7 @@ const VerifyEmail = () => {
     const verifyToken = async () => {
       try {
         const response = await axios.get(
-          `http://localhost:4000/api/auth/verify/${token}`
+          `${process.env.REACT_APP_API_URL}/api/auth/verify/${token}`
         );
         setMessage(response.data.message);
         setTimeout(() => navigate("/login"), 3000);

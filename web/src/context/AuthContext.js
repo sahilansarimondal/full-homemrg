@@ -14,9 +14,12 @@ export const AuthProvider = ({ children }) => {
   useEffect(() => {
     const loadUser = async () => {
       try {
-        const res = await axios.get("http://localhost:4000/api/auth/me", {
-          withCredentials: true,
-        });
+        const res = await axios.get(
+          `${process.env.REACT_APP_API_URL}/api/auth/me`,
+          {
+            withCredentials: true,
+          }
+        );
         setUser(res.data);
       } catch (err) {
         console.error("Failed to load user", err);
@@ -32,7 +35,7 @@ export const AuthProvider = ({ children }) => {
   const login = async ({ email, password }) => {
     try {
       const res = await axios.post(
-        "http://localhost:4000/api/auth/login",
+        `${process.env.REACT_APP_API_URL}/api/auth/login`,
         {
           email,
           password,
@@ -55,7 +58,7 @@ export const AuthProvider = ({ children }) => {
   // Signup function
   const signup = async (username, email, password) => {
     try {
-      await axios.post("http://localhost:4000/api/users", {
+      await axios.post(`${process.env.REACT_APP_API_URL}/api/users`, {
         username,
         email,
         password,
@@ -75,7 +78,7 @@ export const AuthProvider = ({ children }) => {
     setToken(null);
     setUser(null);
     // Optionally call backend logout endpoint
-    axios.post("http://localhost:4000/api/auth/logout");
+    axios.post(`${process.env.REACT_APP_API_URL}/api/auth/logout`);
   };
 
   return (

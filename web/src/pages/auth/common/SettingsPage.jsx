@@ -76,7 +76,7 @@ export default function SettingsPage() {
     try {
       console.log("enter request");
       const response = await axios.post(
-        "http://localhost:4000/api/auth/forgot-password",
+        `${process.env.REACT_APP_API_URL}/api/auth/forgot-password`,
         { email }
       );
       console.log("response", response);
