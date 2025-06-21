@@ -162,7 +162,7 @@ export default function LogInPage() {
                 marginTop: "1rem",
               }}
             >
-              Sign In
+              Log In
             </button>
           </form>
           <div
